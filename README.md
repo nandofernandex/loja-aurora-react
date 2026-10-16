@@ -29,13 +29,13 @@ O resultado será criado na pasta `dist/`.
 
 ## Personalização para entrega
 
-No arquivo `src/components/Footer.jsx`, troque **Seu Nome** pelo nome do aluno. As fotos da loja estão incluídas em `public/images`.
+No arquivo `src/components/Footer.jsx`, troque **Seu Nome** pelo nome do aluno. As fotos de demonstração são carregadas do Unsplash e precisam de conexão à internet.
 
 ## Publicar
 
-1. Crie um repositório no GitHub e envie os arquivos desta pasta.
-2. No Vercel, importe o repositório. O framework será detectado como Vite; use `npm run build` e `dist` como diretório de saída.
-3. Após publicar, compartilhe o link do repositório e o endereço fornecido pelo Vercel.
+1. Importe o repositório GitHub no Vercel.
+2. O framework será detectado como Vite; use `npm run build` e `dist` como diretório de saída.
+3. Compartilhe o endereço fornecido pelo Vercel.
 
 O print da página inicial pode ser salvo após abrir a versão local ou publicada no navegador.
 
